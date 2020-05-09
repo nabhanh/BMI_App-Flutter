@@ -1,1 +1,1 @@
-Simple BMI App made for applying practical skills into Code!
+#Simple BMI App made with Flutter
